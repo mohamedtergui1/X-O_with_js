@@ -1,0 +1,30 @@
+
+.bord{
+    background-color: rgb(255, 0, 0);
+    height: 40vw;
+    width: 40vw;
+    margin: auto;
+    margin-top: 1vw;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0.4vw;
+}
+
+.block{
+   background-color: aliceblue;
+   height: 12.8vw;
+   width: 12.8vw;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   font-size: 9vw;
+   font-family:Nosifer;
+}
+#player{
+    text-align: center;
+    margin: auto;
+    color: blue;
+    font-size: 5vw;
+}
